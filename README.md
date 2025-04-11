@@ -2,7 +2,7 @@
 
 A clean and interactive web app that generates a random number between **1 and 100**, and instantly displays its **multiplication table from 1 to 10**.
 
-![Random Number Generator Screenshot](./screenshot.png) <!-- Replace with actual image path -->
+![Random Number Generator Screenshot](Preview.png)
 
 ---
 
