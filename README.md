@@ -1,7 +1,3 @@
-Your README content looks great already! I’ve made some **light formatting, spacing, and markdown improvements** to enhance readability, especially for platforms like GitHub or Devpost. Here's the cleaned-up and polished version:
-
----
-
 # 🎲 Random Number Generator
 
 A clean and interactive web app that generates a random number between **1 and 100**, and instantly displays its **multiplication table from 1 to 10**.
