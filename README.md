@@ -7,7 +7,7 @@ A clean and interactive web app that generates a random number between **1 and 1
 ---
 
 ## 💻 Live Preview  
-👉 **Check it out here**: [View on CodePen](https://codepen.io/your-link) <!-- Replace with your actual link -->
+👉 **Check it out here**: [View on CodePen](https://codepen.io/Areeba-Memon/pen/GgRbzep)
 
 ⚠️ The complete code is available in the CodePen project linked above.
 
